@@ -15,4 +15,8 @@ Versão 1.0.0 (27/05/2025)
 
 
 - Dataset: `races`
-  - Alterei o tipo de dados das colunas `date`, `fp1_date`, `fp2_date`, `fp3_date`, `quali_date` e `sprint_date` (`object` → `datetime64[ns]`).
+  - Para manter a consistência dos dados, alterei o tipo de dados das colunas `date`, `fp1_date`, `fp2_date`, `fp3_date`, `quali_date` e `sprint_date` (`object` → `datetime64[ns]`).
+
+
+- Dataset: `results`
+  - Para manter a consistência dos dados, alterei o tipo de dados das colunas `number`, `position`, `milliseconds`, `fastestLap` e `rank` (`float64` → `Int64`).
