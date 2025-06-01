@@ -9,6 +9,7 @@ Versão 1.0.0 (27/05/2025)
 
 - Dataset: `drivers`
   - Alterei o tipo de dados da coluna `dob` (`object` → `datetime64[ns]`). Essa coluna representa a data de nascimento dos pilotos.
+  - Alterei o tipo de dados da coluna `number` (`float64` → `Int64`). O tipo `Int64`, com o `I` maiúsculo, aceita valores ausentes e inteiros juntos.
   - Para manter o dataset consistente e padronizar um código para cada piloto, os campos nulos da coluna `code` foram preenchidos utilizando códigos artificiais, criados a partir dos três primeiros caracteres do nome do piloto, na coluna `driverRef`. 
   - Identifiquei uma inconsistência na coluna `nationality`, em que existem valores para `Argentine` e `Argentinian`, embora ambas representam a mesma nacionalidade. Com o objetivo de manter a consistência dos dados, alterei o valor de `Argentinian` para `Argentine`.
 
