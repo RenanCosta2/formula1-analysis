@@ -20,6 +20,7 @@ Versão 1.0.0 (27/05/2025)
 
 - Dataset: `results`
   - Para manter a consistência dos dados, alterei o tipo de dados das colunas `number`, `position`, `milliseconds`, `fastestLap` e `rank` (`float64` → `Int64`).
+  - Criação da coluna `fastestLapTime_ms`, com os tempos das voltas convertidas para milisegundos. Essa coluna foi criada para possibilitar operações matemáticas com esses valores.
 
 
 - Dataset: `qualifying`
