@@ -25,3 +25,7 @@ Versão 1.0.0 (27/05/2025)
 
 - Dataset: `qualifying`
   - Criação de colunas `q1_ms`, `q2_ms` e `q3_ms`, com os tempos dos qualificatórios convertidos para milisegundos. Essas colunas foram criadas para possibilitar operações matemáticas com esses valores.
+
+
+- Dataset: `sprint_results`
+  - Criação da coluna `fastestLapTime_ms`, com os tempos das voltas convertidas para milisegundos. Essa coluna foi criada para possibilitar operações matemáticas com esses valores.
