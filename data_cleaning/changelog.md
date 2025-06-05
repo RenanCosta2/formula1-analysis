@@ -20,3 +20,7 @@ Versão 1.0.0 (27/05/2025)
 
 - Dataset: `results`
   - Para manter a consistência dos dados, alterei o tipo de dados das colunas `number`, `position`, `milliseconds`, `fastestLap` e `rank` (`float64` → `Int64`).
+
+
+- Dataset: `qualifying`
+  - Criação de colunas `q1_ms`, `q2_ms` e `q3_ms`, com os tempos dos qualificatórios convertidos para milisegundos. Essas colunas foram criadas para possibilitar operações matemáticas com esses valores.
