@@ -1,6 +1,5 @@
 # Análise de Dados Históricos de Fórmula 1
 
----
 ## Objetivo
 
 O objetivo deste projeto é realizar uma análise estatística e exploratória das temporadas
@@ -10,7 +9,6 @@ pit stops, e resultados por circuito.
 
 Para mais detalhes sobre o escopo completo e as metas específicas do projeto, consulte o escopo de trabalho completo disponível [aqui](./docs/Escopo_Trabalho_Analise_F1_v1.pdf).
 
----
 ## Questões Analíticas
 
 ### Temporadas
@@ -47,13 +45,13 @@ Para mais detalhes sobre o escopo completo e as metas específicas do projeto, c
 - Comparação entre dois pilotos.
 - Análise por país ou nacionalidade.
 - Recorte por circuito específico.
----
+
 ## Descrição dos Dados
 
 - Fonte: Base de dados do [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020). 
 - Estrutura dos arquivos: Arquivos .csv.
 - Período: 1950 a 2024.
----
+
 ## Pré-processamento e Limpeza de Dados
 
 - Tratamento de nulos.
@@ -63,5 +61,3 @@ Para mais detalhes sobre o escopo completo e as metas específicas do projeto, c
 - Criação de colunas derivadas.
 
 Para mais detalhes sobre a limpeza dos dados, consulte os arquivos de limpeza e o log de mudanças disponível [aqui](./data_cleaning/changelog.md).
-
----
