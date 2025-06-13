@@ -28,7 +28,8 @@ Para mais detalhes sobre o escopo completo e as metas específicas do projeto, c
 ### Construtores
 
 - Quais as 5 equipes de construtores com mais títulos?
-- Quais as 5 equipes com mais vitórias em uma única temporada?
+- Quais as 5 equipes de construtores com maior quantidade de vitórias em uma única temporada?
+- Quais as 5 temporadas com maior dominância de uma única equipe de construtores?
 - Como é a distribuição das equipes por nacionalidade?
 
 ### Circuitos
