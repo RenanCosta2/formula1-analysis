@@ -23,7 +23,7 @@ Para mais detalhes sobre o escopo completo e as metas específicas do projeto, c
 - Quais os 10 pilotos com mais títulos?
 - Quais os 10 pilotos com mais corridas participadas?
 - Como se comparam dois pilotos em vitórias, pódios, poles etc.?
-- Como é a distribuição dos pilotos por nacionalidade e idade?
+- Como é a distribuição dos pilotos por nacionalidade?
 
 ### Construtores
 
