@@ -1,5 +1,7 @@
 # Análise de Dados Históricos de Fórmula 1
 
+Projeto de análise de dados dos campeonatos mundiais de Fórmula 1 no período 1950 - 2024.
+
 ## Objetivo
 
 O objetivo deste projeto é realizar uma análise estatística e exploratória das temporadas
