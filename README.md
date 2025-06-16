@@ -11,6 +11,8 @@ Para mais detalhes sobre o escopo completo e as metas específicas do projeto, c
 
 ## Questões Analíticas
 
+Esta seção documenta as principais questões analíticas investigadas no projeto, organizadas por dimensão de análise (temporadas, pilotos, construtores, circuitos), bem como os recursos interativos e filtros implementados para facilitar a exploração dos dados.
+
 ### Temporadas
 
 - Qual o pódio do campeonato de pilotos e construtores em cada temporada?
@@ -55,6 +57,9 @@ Para mais detalhes sobre o escopo completo e as metas específicas do projeto, c
 
 ## Pré-processamento e Limpeza de Dados
 
+A etapa de pré-processamento e limpeza de dados foi conduzida com a linguagem Python, utilizando principalmente a biblioteca `pandas`.
+
+Etapas realizadas:
 - Tratamento de nulos.
 - Tratamento de duplicatas.
 - Conversão de tipos.
