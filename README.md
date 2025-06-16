@@ -11,6 +11,17 @@ pit stops, e resultados por circuito.
 
 Para mais detalhes sobre o escopo completo e as metas específicas do projeto, consulte o escopo de trabalho completo disponível [aqui](./docs/Escopo_Trabalho_Analise_F1_v1.pdf).
 
+## Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes ferramentas e tecnologias:
+
+- **Python e Jupyter Notebook**: Pré-processamento e limpeza de dados.
+- **SQL**: Exploração e Análise de Dados.
+- **BigQuery**: Plataforma em nuvem para análise de grande volume de dados.
+- **Looker Studio**: Visualização e apresentação dos insights da análise.
+- **Markdown**: Documentação do Projeto.
+- **Git / Github**: Versionamento do projeto.
+
 ## Questões Analíticas
 
 Esta seção documenta as principais questões analíticas investigadas no projeto, organizadas por dimensão de análise (temporadas, pilotos, construtores, circuitos), bem como os recursos interativos e filtros implementados para facilitar a exploração dos dados.
