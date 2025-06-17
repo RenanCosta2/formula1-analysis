@@ -80,3 +80,9 @@ Etapas realizadas:
 - Criação de colunas derivadas.
 
 Para mais detalhes sobre a limpeza dos dados, consulte os arquivos de limpeza e o log de mudanças disponível [aqui](./data_cleaning/changelog.md).
+
+## Exploração e Análise de Dados
+
+Após a limpeza, os conjuntos de dados foram carregados e armazenados no BigQuery, a solução de data warehouse em nuvem da Google, para viabilizar a etapa de exploração e análise.
+
+Essa etapa foi aplicada utilizando a linguagem SQL para manipulação e consultas complexas dos conjuntos de dados a fim extrair insights estratégicos relacionados das temporadas de Fórmula 1.
